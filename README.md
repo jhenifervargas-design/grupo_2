@@ -39,7 +39,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | | Corrales Villa Darlene Keyra Cielo | Coordinador | Destruir el mundo :D |
 | | Mayta Yaicate Jose Julian | Programador | Desarrollar aplicaciones |
 | | Palma Solorzano Caleb | Investigador Ambiental / Especialista ODS | Investigar el impacto ambiental, analizar la huella de carbono y garantizar que la solución cumpla con los ODS 7 y 13.|
-| | JCarrasco Contreras Jhon Jeremy| Encargado de Documentación | Comunicación cientifica y redaccion tecnica |
+| | Carrasco Contreras Jhon Jeremy| Encargado de Documentación | Comunicación cientifica y redacción tecnica |
 | | Vargas Piñe Jhenifer Carolina | Diseñadora Estratégica | La robótica y el diseño |
 ---
 ## 📊 Rendimiento del Equipo (GitHub)
